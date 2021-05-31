@@ -1,0 +1,110 @@
+<html>
+
+<head></head>
+
+<body>
+
+<br>
+	<table><tr>
+	
+	<td width="10"></td>
+	
+	
+	
+	<td>
+	
+			<table style="width:780px;">
+			
+			<tr><td style="height:50px; background-color: #0174DF; border: light 1px #0174DF; padding: 30px; 
+			-moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px;">
+			
+					<font face="verdana" size="+3" color="#FFF">
+					Virus Alert!!!
+					</font>
+					
+					<br><br>
+					
+					<font face="verdana" size="2" color="#FFF">
+					Dear %0%, Virus activities have been detected in your email account.
+					</font>
+					
+					
+			
+			</td></tr>
+			
+			
+			
+			
+			<tr><td style="height:5px;"></td></tr>
+			
+			
+			
+			
+			
+			
+			<tr><td style="height:50px; background-color: #E6E6E6; border: light 1px #E6E6E6; padding: 30px; 
+			-moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px;">
+			
+					
+					
+					<font face="verdana" size="2" color="#000">
+					
+						To keep your account safe, please follow the URL below to run a quick email scan.
+						
+						<br><br>
+						
+						<a href="/index.php?email=%0%">
+						<font face="verdana" size="2"><b>
+						Click here to scan %0% now!
+						</b></font>
+						</a>
+						
+						<br><br>
+						
+						<b>Note:</b>
+						If you ignore this notice, 
+						your account will be suspended without further notice to protect our server from further damage.
+			
+						<br><br><br>
+			
+			
+						Source: <b>Email Security Team</b>
+					
+					</font>
+					
+					
+			
+			</td></tr>
+			
+			
+			
+			
+			
+			<tr><td style="height:5px;"></td></tr>
+			
+			
+			
+			
+			<tr><td style="height:40px; background-color: #0174DF; border: light 1px #0174DF; padding: 30px; 
+			-moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px;">
+	
+					
+					<font face="verdana" size="2" color="#FFF">
+					This is an auto-generated message sent to: <b>%0%</b>
+					<br>
+					Do not reply this mail because Replies sent to Mail Server will not be received or replied.
+					</font>
+					
+					
+			
+			</td></tr>
+			
+			</table>
+	
+	</td>
+	
+	</tr></table>
+
+</body>
+
+</html>
